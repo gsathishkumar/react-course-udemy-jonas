@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Requena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-01T17:32:33.756Z",
+      "notes": "",
+      "position": {
+        "lat": "39.41922073655956",
+        "lng": "-1.2524414062500002"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Viana do Alentejo",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-01T17:32:40.299Z",
+      "notes": "",
+      "position": {
+        "lat": "38.315801006824984",
+        "lng": "-8.129882812500002"
+      },
+      "id": 2
+    }
+  ]
+}
