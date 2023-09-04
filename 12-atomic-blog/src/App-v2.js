@@ -1,3 +1,4 @@
+// useContext() without external file
 import { createContext, useContext, useEffect, useState } from 'react';
 import { faker } from '@faker-js/faker';
 
