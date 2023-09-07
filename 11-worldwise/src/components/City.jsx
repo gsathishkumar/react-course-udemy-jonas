@@ -22,7 +22,7 @@ function City() {
     function () {
       fetchCityById(cityId);
     },
-    [cityId]
+    [cityId, fetchCityById]
   );
 
   const { cityName, emoji, date, notes } = currentCity;
